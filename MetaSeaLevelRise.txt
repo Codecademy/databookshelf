@@ -1,0 +1,30 @@
+eadme
+
+%--------------------------------------------
+
+
+Variable: Thermosteric sea level anomalies and associated errors
+
+Units: mm
+
+Errors: One-sigma error in the same units as the variables.
+              
+
+%--------------------------------------------
+
+
+File description: Yearly values with 3-year smoothing
+
+
+Columns:
+
+(1): time in years (1950.5, 1951.5, ...., 2002.5, etc)
+
+(2): estimates for 0/700 m
+
+(3): errorbars for 0/700 m
+
+
+%--------------------------------------------
+
+http://www.cmar.csiro.au/sealevel/thermal_expansion_ocean_heat_timeseries.html

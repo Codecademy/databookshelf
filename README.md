@@ -19,7 +19,7 @@ Great for time analysis examples, great for Line Graph examples
 Great for time analysis examples, great for Line Graph examples
 
 
-### Amazon.com, Inc. Common Stock Historical Stock Prices
+### Amazon.com, Inc. Common Historical Stock Prices
 From March 21, 2017-2018
 [Link](https://finance.yahoo.com/quote/AMZN/history?p=AMZN) to learn more about the metadata, download other stocks
 
